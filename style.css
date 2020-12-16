@@ -1,0 +1,40 @@
+.section1{
+    background:linear-gradient(80deg, #062b04,#12fa5f);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height:100vh;
+    position: relative;
+}
+h1{
+    color: white;
+    padding-top:50px;
+}
+.image{
+    margin-left:200px;
+    
+}
+.div1{
+    color: white;
+    padding-top:10px; 
+    margin-left: 30px;
+}
+h5{
+    color: black;
+}
+.div2{
+    padding-top:10px; 
+  
+}
+.fa-camera-retro{
+    background-color:yellow;
+    padding:10px;
+    margin-right: 10px;
+    color:white;
+    border-radius: 50px;
+    margin-top: 30px;
+
+}
+h2{
+    padding-top:30px;
+}
